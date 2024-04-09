@@ -83,7 +83,7 @@ nav ul li a {
 
 /* Main content styles with background image */
 main {
-    background-image: url('/Users/davidbilek/Desktop/All/ongoingProjects/website/code/06.jpg'); /* Specify the correct path to your image */
+    background-image: url('06.jpg'); /* Specify the correct path to your image */
     background-size: 100% auto; /* Cover the entire main section */
     background-position: center; /* Center the background image */
     padding: 20%;
